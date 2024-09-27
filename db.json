@@ -1,124 +1,199 @@
 {
-    "product": [
-        {
-            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
-            "name": "Trooper taza",
-            "price": "$60.00",
-            "Description": "Taza casco Trooper",
-            "category": "starwars",
-            "id": 1
-        },
-        {
-            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
-            "name": "Funko Vader",
-            "price": "$60.00",
-            "Description": "Funko coleccionable Darth vader",
-            "category": "starwars",
-            "id": 2
-        },
-        {
-            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
-            "name": "Grogu (Baby Yoda)",
-            "price": "$100.00",
-            "Description": "Grogu peluche electrónico",
-            "category": "starwars",
-            "id": 3
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
-            "name": "Lightsaber",
-            "price": "$3000.00",
-            "Description": "Sable de luz para duelos",
-            "category": "starwars",
-            "id": 4
-        },
-        {
-            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
-            "name": "Darth Vader",
-            "price": "$450.00",
-            "Description": "DarDarth  Vader figura de coleción",
-            "category": "starwars",
-            "id": 5
-        },
-        {
-            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
-            "name": "X12 Plus",
-            "price": "$4500.00",
-            "Description": "consola portatil, 16 Gb de RAM",
-            "category": "consolas",
-            "id": 1
-        },
-        {
-            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
-            "name": "Control Xbox One",
-            "price": "$950.00",
-            "Description": "Control Xbox serie One",
-            "category": "consolas",
-            "id": 2
-        },
-        {
-            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
-            "name": "Steam Card",
-            "price": "$200.00",
-            "Description": "steam card 200 pelucholares",
-            "category": "consolas",
-            "id": 3
-        },
-        {
-            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
-            "name": "Control usb",
-            "price": "$500.00",
-            "Description": "Control de china",
-            "category": "consolas",
-            "id": 4
-        },
-        {
-            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
-            "name": "Oculus Quest 2 ",
-            "price": "$4500.00",
-            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
-            "category": "consolas",
-            "id": 5
-        },
-        {
-            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
-            "name": "Pikachu Itachi  edition",
-            "price": "$500.00",
-            "Description": "Edición especial Pikachu Itachi  anbu",
-            "category": "diversos",
-            "id": 1
-        },
-        {
-            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
-            "name": "Pikachu Deadpool",
-            "price": "$250.00",
-            "Description": "Pikachu edición deadpool",
-            "category": "diversos",
-            "id": 2
-        },
-        {
-            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
-            "name": "Spiderman Hot Toys",
-            "price": "$660.00",
-            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
-            "category": "diversos",
-            "id": 3
-        },
-        {
-            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
-            "name": "Funko Gandalf en Gwaihir",
-            "price": "$600.00",
-            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
-            "category": "diversos",
-            "id": 4
-        },
-        {
-            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
-            "name": "Cell DBZ",
-            "price": "$450.00",
-            "Description": "Cell primera forma, retroiluminado",
-            "category": "diversos",
-            "id": 5
-        }
+    "products": [
+      {
+        "id": 1,
+        "name": "Dr Pepper",
+        "brand": "Dr Pepper",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 150,
+        "carbs": 40,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 55,
+        "sugar": 40,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/750/119/834/3731/front_es.4.full.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Coca-Cola",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 140,
+        "carbs": 39,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 45,
+        "sugar": 39,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/544/900/021/4799/front_es.224.full.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Pepsi",
+        "brand": "Pepsi",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 150,
+        "carbs": 41,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 30,
+        "sugar": 41,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/841/049/430/0050/front_es.27.full.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Sprite",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 140,
+        "carbs": 38,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 65,
+        "sugar": 38,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/544/900/000/6561/front_es.11.full.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Fanta Orange",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 160,
+        "carbs": 44,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 50,
+        "sugar": 44,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/544/900/001/1527/front_es.263.full.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Mountain Dew",
+        "brand": "Pepsi",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 170,
+        "carbs": 46,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 60,
+        "sugar": 46,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/611/125/242/1254/front_en.25.full.jpg"
+      },
+      {
+        "id": 7,
+        "name": "7UP",
+        "brand": "Dr Pepper",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 140,
+        "carbs": 38,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 50,
+        "sugar": 38,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/87177756/front_es.43.full.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Barq's Root Beer",
+        "brand": "Coca-Cola",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 160,
+        "carbs": 45,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 60,
+        "sugar": 45,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Dr Pepper & Cream Soda",
+        "brand": "Dr Pepper",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 170,
+        "carbs": 45,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 55,
+        "sugar": 45,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg"
+      },
+      {
+        "id": 10,
+        "name": "A&W Root Beer",
+        "brand": "A&W",
+        "category": "Soft Drinks",
+        "serving_size": "12 oz",
+        "calories": 160,
+        "carbs": 44,
+        "fat": 0,
+        "protein": 0,
+        "sodium": 55,
+        "sugar": 44,
+        "fiber": 0,
+        "image_url": "https://images.openfoodfacts.org/images/products/073/762/806/4502/front_en.6.400.jpg"
+      }
+    ],
+  
+    "nutritionists": [
+      {
+        "id": 1,
+        "name": "Dr. Ana Pérez",
+        "specialty": "Pérdida de peso",
+        "experience": 10,
+        "email": "ana.perez@example.com",
+        "phone": "123-456-7890"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Luis González",
+        "specialty": "Nutrición deportiva",
+        "experience": 7,
+        "email": "luis.gonzalez@example.com",
+        "phone": "987-654-3210"
+      }
+    ],
+    "healthrisk": [
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      },
+      {
+        "title": "Aumento de peso",
+        "description": "El alto contenido de azúcar favorece el aumento de peso, y si se llegan a alcanzar niveles de sobrepeso y obesidad, se aumenta el riesgo de desarrollar enfermedades crónicas no transmisibles."
+      },
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      },
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      },
+      {
+        "title": "Altos niveles de ácido fosfórico",
+        "description": "Los altos niveles de ácido fosfórico puede ocasionar descalcificación y cálculos renales"
+      }
     ]
-}
+  
+  
+  }
+  
+  
